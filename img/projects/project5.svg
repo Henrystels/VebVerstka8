@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#fff7ed"/>
+  <circle cx="200" cy="120" r="50" fill="#f97316"/>
+  <rect x="100" y="200" width="200" height="15" rx="7" fill="#ea580c"/>
+  <rect x="130" y="230" width="140" height="12" rx="6" fill="#fed7aa"/>
+  <text x="200" y="270" font-family="Arial" font-size="14" text-anchor="middle" fill="#9a3412">Online Platform</text>
+</svg>
